@@ -1,4 +1,7 @@
-spring.application.name=jaz-s31324-nbp
-spring.datasource.url=jdbc:mysql://szuflandia.pjwstk.edu.pl:3306/s31324
-spring.datasource.username=s31324
-spring.datasource.password=Pat.Latk
+spring:
+  application:
+    name: jaz-s31324-nbp
+  datasource:
+    url: jdbc:mysql://szuflandia.pjwstk.edu.pl:3306/s31324
+    username: s31324
+    password: Pat.Latk
